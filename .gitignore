@@ -1,0 +1,10 @@
+
+.idea/
+/.idea/vcs.xml
+/.idea/workspace.xml
+/.idea/edu_saas.iml
+/.idea/edu_saas_prj.iml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/modules.xml
+venv/
